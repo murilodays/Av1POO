@@ -2,6 +2,10 @@
 
 Bem-vindo ao repositório do meu trabalho de faculdade valendo a nota da AV1 da disciplina de POO, desenvolvido com **Python**.
 
+## Tecnologias Utilizadas
+
+- Python
+
 ## Entre em Contato Comigo
 
 - **Email**: contatomurilodays@email.com  
